@@ -11,6 +11,7 @@
 
 body{
     background: var(--cream);
+    font-size: 16px;
 }
 
 .card{
